@@ -6,6 +6,6 @@ Whisper version made from the audio of HxH99 Remastered version provided by the 
 
 They still have errors so contributions are welcome. There are some mistakes even on the source video.
 
-The better of the two versions is clearly the OCR one, meaning-wise, but it still has lots of minor mistakes
+The better of the two versions is clearly the OCR one, meaning-wise, but it still has lots of minor mistakes. Like き instead of さ in many places.
 
 ![](./example.jpg)
